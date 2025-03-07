@@ -1,1 +1,1 @@
-wordpress:latest
+ghcr.nju.edu.cn/xinnan-tech/xiaozhi-esp32-server:latest
