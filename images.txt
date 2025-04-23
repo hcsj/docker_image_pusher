@@ -1,1 +1,1 @@
-ghcr.io/ourongxing/newsnow:latest
+ghcr.io/anduin2017/how-to-cook:latest
