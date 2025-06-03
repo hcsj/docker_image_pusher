@@ -1,1 +1,1 @@
-ghcr.io/anduin2017/how-to-cook:latest
+ningflow/tablechat:1.0.0
